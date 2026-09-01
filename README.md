@@ -6,8 +6,9 @@ BungieおよびDestiny 2とは関係のない、非公式のファン制作物�
 本データはBungie公式データ、公式ロゴ、ゲーム内画像を含みません。
 
 ## License
+CC0 1.0 Universal
 
-CC0 BY 1.0
+本データは、可能な限り自由に利用・改変・再配布できます。
 
 ## Disclaimer
 
